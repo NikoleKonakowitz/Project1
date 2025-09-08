@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://img.freepik.com/free-vector/orange-irregular-organic-lines-seamless-pattern_1409-4190.jpg?semt=ais_hybrid&w=740&q=80);
+    color:beige;
+}
+#banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px;
+}
+div{
+    padding-bottom: 800px;
+    margin:auto;
+    background-color: #d295de;;
+    width:1200px;
+}
+#drawdiv{
+    padding-bottom: 1200px;
+    margin:auto;
+    background-color: #d295de;;
+    width:1200px;
+}
+.typetwodiv{
+    padding-bottom: 1100px;
+    margin:auto;
+    background-color: #d295de;;
+    width:1200px;
+}
+.nav{
+    background-color: #c668d9;
+    padding: 0;
+    margin: auto;
+    width: 1200px;
+}
+.nav1{
+    display: inline-block;
+    text-align: right;
+    font-size: 18px;
+    padding: 5px
+}
+h1{
+    text-align: center;
+}
+.project{
+    float: left;
+    padding:20px;
+    height: 350px;
+    width: 350px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.sculptimg{
+    float: left;
+    padding:20px;
+    height: 500px;
+    width: 500px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
